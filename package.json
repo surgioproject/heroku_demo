@@ -1,0 +1,16 @@
+{
+  "name": "heroku_demo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "update": "surgio generate",
+    "start": "node gateway.js"
+  },
+  "dependencies": {
+    "@surgio/gateway": "^0.8.0",
+    "surgio": "1.17.1"
+  },
+  "engines": {
+    "node": "^10.0.0"
+  }
+}
