@@ -1,4 +1,5 @@
 # heroku_demo
 
-Doc: 
-Demo: https://surgio-demo.herokuapp.com/
+- Doc: https://bit.ly/2UeW41A
+- Demo: https://surgio-demo.herokuapp.com/
+- Password: `surgio`
