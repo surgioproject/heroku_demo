@@ -120,7 +120,7 @@ module.exports = {
    * 订阅地址的前缀部分，以 / 结尾
    * 例如阿里云 OSS 的访问地址 https://xxx.oss-cn-hangzhou.aliyuncs.com/
    */
-  urlBase: 'https://example.com/',
+  urlBase: 'https://surgio-demo.herokuapp.com/get-artifact/',
   upload: {
     // 默认保存至根目录，可以在此修改子目录名，以 / 结尾，默认为 /
     prefix: '/',
